@@ -1,0 +1,13 @@
+Authprotection
+
+HOC
+Authprotection(Authview,NonAuthview,props)
+
+-------------------------------------------------------
+Redux
+Redux is state management
+flux
+
+npm install --save redux
+
+only one reducer in lifecycle

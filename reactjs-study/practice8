@@ -1,0 +1,25 @@
+npm install --save react-redux
+
+
+https://redux.js.org/introduction/getting-started
+
+
+spread operator
+...object
+
+Functional compnent
+
+Hooks
+Equivalent class
+useState()
+useEffect()
+setCount()
+
+
+Saga
+It works as interceptor
+
+Dynamic update on UI
+Metore Js
+APP Sync
+Aplo Client

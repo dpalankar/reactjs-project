@@ -1,0 +1,34 @@
+children property
+props and state.
+
+
+Component Life Cycle
+constructor()	called again
+componentMount() called again
+componentUnMount()	
+Render()
+destructor()
+
+Highr
+
+		component 
+	
+stateless		stateful
+
+
+HOC(higher order comp)
+
+Constr
+compDidMount
+render
+compWillupdate
+shouldcompupdate
+
+
+React Redux
+effects
+	hooks
+Hooks	 UseState	 UseEffect
+
+functional component
+Class component

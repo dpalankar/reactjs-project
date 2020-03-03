@@ -1,0 +1,41 @@
+ReactDOM=>(Doc object Model)
+
+Jsx
+
+className
+
+let for initialise variable
+
+
+function component
+
+Lambda express
+
+state variable.
+
+
+class component
+import React,{Component} from 'react';
+	   1
+1 Default export
+
+export {RandomClass};	
+2 name export
+
+class name sholud be capital
+
+.call
+.bind
+.apply
+
+http://ec6-features.org/#lexicalthis
+
+http://es6-features.org/#Constants
+
+javascript slice
+
+splice
+
+Hooks
+
+https://github.com/akash-saxena150

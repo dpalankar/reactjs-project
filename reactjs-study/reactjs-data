@@ -1,0 +1,54 @@
+npm install -g create-react-app
+ReactJs 16
+Authentication
+Redux
+Type Script
+---------------------------------------------------
+ECMA6: standard
+chrome :v8
+w3c
+Single page application.
+Sprites images
+Routers:
+SPA
+---------------------------------------------------
+MVC
+Model->contr->View
+Model-><-MVVM-><-View
+---------------------------------------------------
+single first class
+Object literal
+IIFE
+thus
+custome event
+---------------------------------------------------
+Build workflow
+Splitting
+
+How
+Dependency management Tool =>NPM
+Bundler =>Webpack
+Compiler=>
+Babel transformer
+Minfiest file.
+Development Server.
+
+---------------------------------------------------
+Test Application
+
+https://github.com/facebook/create-react-app
+
+create-react-app
+
+ReactDOM
+
+
+
+Next Js(mini word press)
+
+
+https://github.com/akash-saxena150/
+
+npx create-react-app course-project
+
+
